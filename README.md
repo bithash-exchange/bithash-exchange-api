@@ -30,9 +30,9 @@ With no parameters passed you get information on all active pairs.
 
 Examples:
 
-https://bithash.info/api/ticker
-https://bithash.info/api/ticker/btc_usd
-https://bithash.info/api/ticker/btc_usd-btc_rub
+https://bithash.info/api/ticker  
+https://bithash.info/api/ticker/btc_usd     
+https://bithash.info/api/ticker/btc_usd-btc_rub  
 
 # depth
 
@@ -47,9 +47,9 @@ With no parameters passed you get information on all active pairs.
 
 Examples:
 
-https://bithash.info/api/depth
-https://bithash.info/api/depth/btc_usd
-https://bithash.info/api/depth/btc_usd-btc_rub
+https://bithash.info/api/depth  
+https://bithash.info/api/depth/btc_usd  
+https://bithash.info/api/depth/btc_usd-btc_rub  
 
 # trades
 
@@ -64,6 +64,6 @@ With no parameters passed you get information on all active pairs.
 
 Examples:
 
-https://bithash.info/api/trades
-https://bithash.info/api/trades/btc_usd
-https://bithash.info/api/trades/btc_usd-btc_rub
+https://bithash.info/api/trades  
+https://bithash.info/api/trades/btc_usd  
+https://bithash.info/api/trades/btc_usd-btc_rub  
