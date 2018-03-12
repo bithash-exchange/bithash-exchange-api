@@ -1,4 +1,4 @@
-# Bithash Exchange Public API (v3)
+# BitHash Exchange Public API (v3)
 
 Public API is used to provide access to the list of used currencies with real-time market data on each.
 
