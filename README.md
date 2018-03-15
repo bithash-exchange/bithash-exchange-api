@@ -1,8 +1,12 @@
-# BitHash Exchange Public API (v3)
+# BitHash Cryptocurrency Exchange Public API (v3)
 
 Public API is used to provide access to the list of used currencies with real-time market data on each.
 
-There are four methods: info, ticker, depth, trades.
+If you get a "request exceeded" error drop us a message for a private API endpoint.
+
+There are four methods: info, ticker, depth, trades
+
+More info at: https://bithash.info/en/api
 
 # info
 
