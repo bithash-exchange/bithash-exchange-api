@@ -6,7 +6,9 @@ If you get a "request exceeded" error drop us a message for a private API endpoi
 
 There are four methods: info, ticker, depth, trades
 
-More info at: https://bithash.info/en/api
+More info at:  
+  
+https://bithash.info/en/api 
 
 # info
 
