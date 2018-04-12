@@ -8,7 +8,7 @@ There are four methods: info, ticker, depth, trades
 
 More info at:  
   
-https://bithash.info/en/api 
+https://www.bithash.net/en/api 
 
 # info
 
@@ -21,7 +21,7 @@ Method provides information on active pairs: currency scale (number of digits to
 
 Example:
 
-https://bithash.info/api/info
+https://www.bithash.net/api/info
 
 # ticker
 
@@ -36,9 +36,9 @@ With no parameters passed you get information on all active pairs.
 
 Examples:
 
-https://bithash.info/api/ticker  
-https://bithash.info/api/ticker/btc_usd     
-https://bithash.info/api/ticker/btc_usd-btc_rub  
+https://www.bithash.net/api/ticker  
+https://www.bithash.net/api/ticker/btc_usd     
+https://www.bithash.net/api/ticker/btc_usd-btc_rub  
 
 # depth
 
@@ -53,9 +53,9 @@ With no parameters passed you get information on all active pairs.
 
 Examples:
 
-https://bithash.info/api/depth  
-https://bithash.info/api/depth/btc_usd  
-https://bithash.info/api/depth/btc_usd-btc_rub  
+https://www.bithash.net/api/depth  
+https://www.bithash.net/api/depth/btc_usd  
+https://www.bithash.net/api/depth/btc_usd-btc_rub  
 
 # trades
 
@@ -70,6 +70,6 @@ With no parameters passed you get information on all active pairs.
 
 Examples:
 
-https://bithash.info/api/trades  
-https://bithash.info/api/trades/btc_usd  
-https://bithash.info/api/trades/btc_usd-btc_rub  
+https://www.bithash.net/api/trades  
+https://www.bithash.net/api/trades/btc_usd  
+https://www.bithash.net/api/trades/btc_usd-btc_rub  
