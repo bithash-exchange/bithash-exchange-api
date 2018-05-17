@@ -30,7 +30,7 @@ Endpoint: /api/ticker
 
 Parameters: none or various hyphen-separated currency pairs (example: btc_usd-btc_rub)
 
-Method provides information on active markets for the past 24 hours: maximum price, minimum price, average price, trading volume, trading value, last price, buy price, sell price.
+Method provides information on active markets for the past 24 hours: maximum price, minimum price, average price, trading value, trading volume, last price, buy price, sell price.
 
 With no parameters passed you get information on all active pairs.
 
@@ -39,6 +39,13 @@ Examples:
 https://www.bithash.net/api/ticker  
 https://www.bithash.net/api/ticker/btc_usd     
 https://www.bithash.net/api/ticker/btc_usd-btc_rub  
+
+Note:
+
+vol_cur = Trading Volume
+vol = Trading Value
+
+vol_cur -> BTC/USD <- vol
 
 # depth
 
