@@ -1,3 +1,11 @@
+```diff
+- API v3 is no longer maintained and will be depreciated soon 
+```
+
+An updated list of BitHash API's:
+
+https://support.bithash.net/hc/en-us/sections/360004615352-API
+
 # BitHash Cryptocurrency Exchange Public API (v3)
 
 Public API is used to provide access to the list of used currencies with real-time market data on each.
@@ -80,3 +88,18 @@ Examples:
 https://www.bithash.net/api/trades  
 https://www.bithash.net/api/trades/btc_usd  
 https://www.bithash.net/api/trades/btc_usd-btc_rub  
+
+
+---
+
+# About BitHash
+
+BitHash Cryptocurrency Exchange was established in 2016 in Singapore with more than 100 pairs available for trading cryptocurrency - Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Bitcoin Cash (BCH), Ethereum Classic (ETC), Dash (DASH), EOS (EOS), TON Coin (TON), Monero (XMR), Ripple (XRP), Zcash (ZEC).
+
+BitHash Exchange is operated by PHOENIX TRADING SOLUTIONS LTD, a licensed company incorporated under the International Business Companies Act of 2016 of the Republic of Seychelles with company number 214028.
+
+Global Gateway 8, Rue de la Perle, Providence, Mahé, Seychelles
+PHOENIX TRADING SOLUTIONS LTD.
+IBC NO 214028
+
+https://www.bithash.net/
